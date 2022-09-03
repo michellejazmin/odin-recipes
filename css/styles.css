@@ -19,4 +19,9 @@ h2 {
 img {
   height: auto;
   width: 500px;
+  margin: auto;
+}
+
+a {
+  color: midnightblue;
 }
